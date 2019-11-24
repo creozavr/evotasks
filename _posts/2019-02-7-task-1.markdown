@@ -1,0 +1,14 @@
+
+---
+layout: post
+title:  "Раскрась серый день"
+date:   2018-02-12 13:46:40
+categories: jekyll update
+---
+<div class="task">
+  New task
+</div>
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
