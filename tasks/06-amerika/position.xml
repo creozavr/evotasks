@@ -1,0 +1,326 @@
+<PACKAGE version="1.3" copyrights="lissgrad@tut.by">
+  <TEST>false</TEST>
+  <ISAUTODELIVERY>true</ISAUTODELIVERY>
+  <TIMERDELIVERY>00.00</TIMERDELIVERY>
+  <CHECK>false</CHECK>
+  <TESTANIMATION>true</TESTANIMATION>
+  <RANDOM>false</RANDOM>
+  <WIDTH>940</WIDTH>
+  <HEIGHT>860</HEIGHT>
+  <TASK level="1" eval="1" id="1">
+    <NAME>Задание</NAME>
+    <LAYERS>22,21,20,19,18,17,1,2,3,14,4,5,6,7,16,9,10,8,11,15,12,13</LAYERS>
+    <DIAP>20</DIAP>
+    <UNIQU>true</UNIQU>
+    <MNIMOE>false</MNIMOE>
+    <ICONS>true</ICONS>
+    <DELBUT>0,0,0</DELBUT>
+    <MARKCOUNTER>false</MARKCOUNTER>
+    <OBJECTS>
+      <PICTURETAN id="0">
+        <IMAGE>bg.jpg</IMAGE>
+        <WIDTH>940</WIDTH>
+        <HEIGHT>666</HEIGHT>
+        <ISDRAG>true</ISDRAG>
+        <ISROTATION>true</ISROTATION>
+        <ISDINAMYC>false</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>false</ISSTARTPOS>
+        <SETMISSTAKE>false</SETMISSTAKE>
+        <COLOR>
+          <X>470</X>
+          <Y>336.5</Y>
+          <R>0</R>
+        </COLOR>
+        <BLACK>
+          <X>669.5</X>
+          <Y>289.6</Y>
+          <R>0</R>
+          <DELETE>1</DELETE>
+          <ALPHA>0</ALPHA>
+        </BLACK>
+      </PICTURETAN>
+      <PICTURETAN id="1">
+        <IMAGE>pikap.png</IMAGE>
+        <WIDTH>142</WIDTH>
+        <HEIGHT>91</HEIGHT>
+        <ISDRAG>false</ISDRAG>
+        <ISROTATION>false</ISROTATION>
+        <ISDINAMYC>false</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>false</ISSTARTPOS>
+        <SETMISSTAKE>false</SETMISSTAKE>
+        <COLOR>
+          <X>859.05</X>
+          <Y>724.45</Y>
+          <R>0</R>
+        </COLOR>
+        <BLACK>
+          <X>1079.25</X>
+          <Y>741.5</Y>
+          <R>0</R>
+          <DELETE>1</DELETE>
+          <ALPHA>0</ALPHA>
+        </BLACK>
+      </PICTURETAN>
+      <PICTURETAN id="2">
+        <IMAGE>orkestr.png</IMAGE>
+        <WIDTH>156</WIDTH>
+        <HEIGHT>107</HEIGHT>
+        <ISDRAG>false</ISDRAG>
+        <ISROTATION>false</ISROTATION>
+        <ISDINAMYC>false</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>false</ISSTARTPOS>
+        <SETMISSTAKE>false</SETMISSTAKE>
+        <COLOR>
+          <X>720.4</X>
+          <Y>738.25</Y>
+          <R>0</R>
+        </COLOR>
+        <BLACK>
+          <X>634.55</X>
+          <Y>731.05</Y>
+          <R>0</R>
+          <DELETE>1</DELETE>
+          <ALPHA>0</ALPHA>
+        </BLACK>
+      </PICTURETAN>
+      <PICTURETAN id="3">
+        <IMAGE>poselok.png</IMAGE>
+        <WIDTH>120</WIDTH>
+        <HEIGHT>120</HEIGHT>
+        <ISDRAG>false</ISDRAG>
+        <ISROTATION>false</ISROTATION>
+        <ISDINAMYC>false</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>false</ISSTARTPOS>
+        <SETMISSTAKE>false</SETMISSTAKE>
+        <COLOR>
+          <X>65.5</X>
+          <Y>722.5</Y>
+          <R>0</R>
+        </COLOR>
+        <BLACK>
+          <X>104.25</X>
+          <Y>753.75</Y>
+          <R>0</R>
+          <DELETE>1</DELETE>
+          <ALPHA>0</ALPHA>
+        </BLACK>
+      </PICTURETAN>
+      <PICTURETAN id="4">
+        <IMAGE>baiker.png</IMAGE>
+        <WIDTH>141</WIDTH>
+        <HEIGHT>83</HEIGHT>
+        <ISDRAG>false</ISDRAG>
+        <ISROTATION>false</ISROTATION>
+        <ISDINAMYC>false</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>false</ISSTARTPOS>
+        <SETMISSTAKE>false</SETMISSTAKE>
+        <COLOR>
+          <X>205.5</X>
+          <Y>731.25</Y>
+          <R>0</R>
+        </COLOR>
+        <BLACK>
+          <X>258</X>
+          <Y>733.75</Y>
+          <R>0</R>
+          <DELETE>1</DELETE>
+          <ALPHA>0</ALPHA>
+        </BLACK>
+      </PICTURETAN>
+      <PICTURETAN id="5">
+        <IMAGE>rodeo.png</IMAGE>
+        <WIDTH>207</WIDTH>
+        <HEIGHT>132</HEIGHT>
+        <ISDRAG>false</ISDRAG>
+        <ISROTATION>false</ISROTATION>
+        <ISDINAMYC>false</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>false</ISSTARTPOS>
+        <SETMISSTAKE>false</SETMISSTAKE>
+        <COLOR>
+          <X>376.75</X>
+          <Y>736.25</Y>
+          <R>0</R>
+        </COLOR>
+        <BLACK>
+          <X>384.25</X>
+          <Y>756.25</Y>
+          <R>0</R>
+          <DELETE>1</DELETE>
+          <ALPHA>0</ALPHA>
+        </BLACK>
+      </PICTURETAN>
+      <PICTURETAN id="6">
+        <IMAGE>vyshka.png</IMAGE>
+        <WIDTH>167</WIDTH>
+        <HEIGHT>115</HEIGHT>
+        <ISDRAG>false</ISDRAG>
+        <ISROTATION>false</ISROTATION>
+        <ISDINAMYC>false</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>false</ISSTARTPOS>
+        <SETMISSTAKE>false</SETMISSTAKE>
+        <COLOR>
+          <X>566.75</X>
+          <Y>742.5</Y>
+          <R>0</R>
+        </COLOR>
+        <BLACK>
+          <X>578</X>
+          <Y>763.75</Y>
+          <R>0</R>
+          <DELETE>1</DELETE>
+          <ALPHA>0</ALPHA>
+        </BLACK>
+      </PICTURETAN>
+      <POINTDRAW type="task" id="1">
+        <DISTANCE type="horizontal">30</DISTANCE>
+        <DISTANCE type="vertical">30</DISTANCE>
+        <NUMBERPOINT type="horizontal">1</NUMBERPOINT>
+        <NUMBERPOINT type="vertical">2</NUMBERPOINT>
+        <THICK>5</THICK>
+        <COLOR>0xff0000</COLOR>
+        <X>315.35</X>
+        <Y>760.5</Y>
+        <LASTPOINT>false</LASTPOINT>
+        <POINTS>
+          <POINT id="0" x="428.95" y="-314.65">
+            <LINE_TO>1</LINE_TO>
+          </POINT>
+          <POINT id="1" x="535.25" y="-34.05">
+            <LINE_TO>0</LINE_TO>
+          </POINT>
+        </POINTS>
+        <ACTIVE>false</ACTIVE>
+        <ALPHA>true</ALPHA>
+        <RADIUSCENTER>40</RADIUSCENTER>
+        <RADIUSAREA>60</RADIUSAREA>
+      </POINTDRAW>
+      <POINTDRAW type="task" id="2">
+        <DISTANCE type="horizontal">30</DISTANCE>
+        <DISTANCE type="vertical">30</DISTANCE>
+        <NUMBERPOINT type="horizontal">2</NUMBERPOINT>
+        <NUMBERPOINT type="vertical">1</NUMBERPOINT>
+        <THICK>5</THICK>
+        <COLOR>0xff0000</COLOR>
+        <X>388</X>
+        <Y>737.5</Y>
+        <LASTPOINT>false</LASTPOINT>
+        <POINTS>
+          <POINT id="0" x="-212.5" y="-186.25">
+            <LINE_TO>1</LINE_TO>
+          </POINT>
+          <POINT id="1" x="327.5" y="-5">
+            <LINE_TO>0</LINE_TO>
+          </POINT>
+        </POINTS>
+        <ACTIVE>false</ACTIVE>
+        <ALPHA>true</ALPHA>
+        <RADIUSCENTER>40</RADIUSCENTER>
+        <RADIUSAREA>70</RADIUSAREA>
+      </POINTDRAW>
+      <POINTDRAW type="task" id="3">
+        <DISTANCE type="horizontal">30</DISTANCE>
+        <DISTANCE type="vertical">30</DISTANCE>
+        <NUMBERPOINT type="horizontal">2</NUMBERPOINT>
+        <NUMBERPOINT type="vertical">1</NUMBERPOINT>
+        <THICK>5</THICK>
+        <COLOR>0xff0000</COLOR>
+        <X>79.25</X>
+        <Y>821.25</Y>
+        <LASTPOINT>false</LASTPOINT>
+        <POINTS>
+          <POINT id="0" x="223.75" y="-688.75">
+            <LINE_TO>1</LINE_TO>
+          </POINT>
+          <POINT id="1" x="-8.75" y="-77.5">
+            <LINE_TO>0</LINE_TO>
+          </POINT>
+        </POINTS>
+        <ACTIVE>false</ACTIVE>
+        <ALPHA>true</ALPHA>
+        <RADIUSCENTER>40</RADIUSCENTER>
+        <RADIUSAREA>70</RADIUSAREA>
+      </POINTDRAW>
+      <POINTDRAW type="task" id="4">
+        <DISTANCE type="horizontal">30</DISTANCE>
+        <DISTANCE type="vertical">30</DISTANCE>
+        <NUMBERPOINT type="horizontal">2</NUMBERPOINT>
+        <NUMBERPOINT type="vertical">1</NUMBERPOINT>
+        <THICK>5</THICK>
+        <COLOR>0xff0000</COLOR>
+        <X>241.75</X>
+        <Y>810</Y>
+        <LASTPOINT>false</LASTPOINT>
+        <POINTS>
+          <POINT id="0" x="222.5" y="-396.25">
+            <LINE_TO>1</LINE_TO>
+          </POINT>
+          <POINT id="1" x="-31.25" y="-77.5">
+            <LINE_TO>0</LINE_TO>
+          </POINT>
+        </POINTS>
+        <ACTIVE>false</ACTIVE>
+        <ALPHA>true</ALPHA>
+        <RADIUSCENTER>40</RADIUSCENTER>
+        <RADIUSAREA>70</RADIUSAREA>
+      </POINTDRAW>
+      <POINTDRAW type="task" id="5">
+        <DISTANCE type="horizontal">30</DISTANCE>
+        <DISTANCE type="vertical">30</DISTANCE>
+        <NUMBERPOINT type="horizontal">2</NUMBERPOINT>
+        <NUMBERPOINT type="vertical">1</NUMBERPOINT>
+        <THICK>5</THICK>
+        <COLOR>0xff0000</COLOR>
+        <X>314.25</X>
+        <Y>805</Y>
+        <LASTPOINT>false</LASTPOINT>
+        <POINTS>
+          <POINT id="0" x="6.25" y="-327.5">
+            <LINE_TO>1</LINE_TO>
+          </POINT>
+          <POINT id="1" x="62.5" y="-66.25">
+            <LINE_TO>0</LINE_TO>
+          </POINT>
+        </POINTS>
+        <ACTIVE>false</ACTIVE>
+        <ALPHA>true</ALPHA>
+        <RADIUSCENTER>40</RADIUSCENTER>
+        <RADIUSAREA>80</RADIUSAREA>
+      </POINTDRAW>
+      <POINTDRAW type="task" id="6">
+        <DISTANCE type="horizontal">30</DISTANCE>
+        <DISTANCE type="vertical">30</DISTANCE>
+        <NUMBERPOINT type="horizontal">2</NUMBERPOINT>
+        <NUMBERPOINT type="vertical">1</NUMBERPOINT>
+        <THICK>5</THICK>
+        <COLOR>0xff0000</COLOR>
+        <X>453</X>
+        <Y>841.25</Y>
+        <LASTPOINT>false</LASTPOINT>
+        <POINTS>
+          <POINT id="0" x="-341.25" y="-388.75">
+            <LINE_TO>1</LINE_TO>
+          </POINT>
+          <POINT id="1" x="110" y="-103.75">
+            <LINE_TO>0</LINE_TO>
+          </POINT>
+        </POINTS>
+        <ACTIVE>false</ACTIVE>
+        <ALPHA>true</ALPHA>
+        <RADIUSCENTER>40</RADIUSCENTER>
+        <RADIUSAREA>75</RADIUSAREA>
+      </POINTDRAW>
+    </OBJECTS>
+    <AUDIO>
+      <STARTAUDIO id="1454313540356.0.1" isRun="false"><![CDATA[]]></STARTAUDIO>
+      <FAILAUDIO id="1454313540356.0.2" isRun="false"><![CDATA[]]></FAILAUDIO>
+      <SUCCESSAUDIO id="oke" isRun="true"><![CDATA[]]></SUCCESSAUDIO>
+    </AUDIO>
+  </TASK>
+</PACKAGE>

@@ -1,0 +1,121 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Выборка заданий</title>
+<link href="BlogPostAssets/styles/blogPostStyle.css" rel="stylesheet" type="text/css">
+<link href="css/tabs.css" rel="stylesheet" type="text/css">
+<link href="css/accordion.css" rel="stylesheet" type="text/css">
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.--><script>var __adobewebfontsappname__="dreamweaver"</script><script src="http://use.edgefonts.net/montserrat:n4:default;source-sans-pro:n2:default.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="js/tabs.js"></script>
+
+
+</head> 
+
+<body>
+<div id="mainwrapper">
+  <header> 
+    <!--**************************************************************************
+    Header starts here. It contains Logo and 3 navigation links. 
+    ****************************************************************************-->
+    <div id="logo"><!-- <img src="logoImage.png" alt="sample logo"> --><!-- Company Logo text --><a href="/"><img src="http://4.bp.blogspot.com/-nXZZm67Y0-A/VbDd0E0vjtI/AAAAAAAADXU/Ws__5sUw2_E/s1600/Home-icon.png" width="35px" /></a> ВЫБОРКА ЗАДАНИЙ КУРСА</div>
+   
+  </header>
+  <div id="content">
+    
+    <section id="mainContent">
+      <!--************************************************************************
+    Main Blog content starts here
+    ****************************************************************************-->
+      <iframe src="tasks/03-melnica/index.html" width="100%" height="820px" name="main" frameborder="0" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" msallowfullscreen="true"></iframe>
+    </section>
+<section id="sidebar"> 
+      <!--************************************************************************
+    Sidebar starts here. It contains a searchbox, sample ad image and 6 links
+    ****************************************************************************-->
+      <div class='section'>
+              <ul class='tabs'>
+              <li class='current'>
+                  <strong>1</strong>
+                </li>
+                <li>
+                  2
+                </li>
+              </ul>
+              
+              
+              <div class='box visible'>
+                <nav>
+                
+                <section class="ac-container">
+                
+                <div>
+					<input id="ac-14" name="accordion-3" type="radio" checked />
+					<label for="ac-14">Разные задания</label>
+					<article class="ac-medium"><ol>
+                    <li><a href="tasks/03-melnica/index.html" target="main" data-tooltip="1">Живая раскраска</a></li>
+                    <li><a href="tasks/01-telenok/index.html" target="main" data-tooltip="1">Найди пару</a></li>
+                    <li><a href="tasks/13-puzzle-artist/index.html" target="main" data-tooltip="1">Собери пазл с художником</a></li>
+                    <li><a href="tasks/05-jiraffiki/index.html" target="main" data-tooltip="1">Найди отличия в жирафиках</a></li>
+                    <li><a href="tasks/08-yabloko/index.html" target="main" data-tooltip="1">Найди часть яблока</a></li>
+                    <li><a href="tasks/14-parovoziki/index.html" target="main" data-tooltip="1">Найди отличия в паровозиках</a></li>
+                    <li><a href="tasks/20-prostoy-tangram/index.html" target="main" data-tooltip="1">Простой танграм</a></li>
+                    <li><a href="tasks/23-raskras-devochku/index.html" target="main" data-tooltip="1">Раскась девочку</a></li>
+                    <li><a href="tasks/37-sea/index.html" target="main" data-tooltip="1">Найди часть</a></li>
+</ol>
+					</article>
+				</div>
+			</section>
+     
+        
+      </nav>
+              </div>
+              
+              
+              
+              <div class='box'>
+                <nav>
+Можно будет сделать презентацию
+        
+      </nav>
+              </div>
+              
+      </div>
+            <!-- .section -->
+      
+      
+    </section>
+  <div id="footerbar"><!-- Small footerbar at the bottom --></div>   
+  </div>
+  
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+    $("[data-tooltip]").mousemove(function (eventObject) {
+
+        $data_tooltip = $(this).attr("data-tooltip");
+        
+        $("#tooltip").text($data_tooltip)
+                     .css({ 
+                         "top" : eventObject.pageY + 5,
+                        "left" : eventObject.pageX + 5
+                     })
+                     .show();
+
+    }).mouseout(function () {
+
+        $("#tooltip").hide()
+                     .text("")
+                     .css({
+                         "top" : 0,
+                        "left" : 0
+                     });
+    });
+});// Ready end.
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,356 @@
+<PACKAGE version="1.3" copyrights="lissgrad@tut.by">
+  <TEST>false</TEST>
+  <DELIVERY>true</DELIVERY>
+  <ISAUTODELIVERY>true</ISAUTODELIVERY>
+  <TIMERDELIVERY>00.00</TIMERDELIVERY>
+  <CHECK>false</CHECK>
+  <TESTANIMATION>true</TESTANIMATION>
+  <RANDOM>false</RANDOM>
+  <WIDTH>800</WIDTH>
+  <HEIGHT>566</HEIGHT>
+  <TASK level="1" eval="1" id="1">
+    <NAME>Задание</NAME>
+    <LAYERS>10,11,18,17,1,2,3,14,4,5,6,7,16,8,9,15,12,13,22,21,20,19</LAYERS>
+    <DIAP>20</DIAP>
+    <UNIQU>true</UNIQU>
+    <MNIMOE>false</MNIMOE>
+    <ICONS>false</ICONS>
+    <DELBUT>1,0,1</DELBUT>
+    <MARKCOUNTER>false</MARKCOUNTER>
+    <OBJECTS>
+      <PALITRA>
+        <X>130.7</X>
+        <Y>276</Y>
+        <COLOR id="1">0x66ffff</COLOR>
+        <COLOR id="2">0x0</COLOR>
+        <COLOR id="3">0xfab651</COLOR>
+        <COLOR id="4">0xffff00</COLOR>
+        <COLOR id="5">0x99c357</COLOR>
+        <COLOR id="6">0x339900</COLOR>
+        <COLOR id="7">0xf23645</COLOR>
+        <COLOR id="8">0xff66ff</COLOR>
+        <COLOR id="9">0xcccccc</COLOR>
+        <COLOR id="10">0xb4e69</COLOR>
+        <COLOR id="11">0x86df</COLOR>
+        <COLOR id="12">0xf2cdd5</COLOR>
+      </PALITRA>
+      <USERTAN type="curve" id="0">
+        <POINTS>
+          <POINT id="0" x="-35.325" y="21.5" anchorX="NaN" anchorY="NaN"/>
+          <POINT id="1" x="-16.325000000000003" y="-5.5" anchorX="-31.02500000000001" anchorY="5.5"/>
+          <POINT id="2" x="21.674999999999997" y="-22.5" anchorX="1.6749999999999972" anchorY="-17.5"/>
+          <POINT id="3" x="35.32499999999999" y="5.5" anchorX="28.5" anchorY="-8.5"/>
+          <POINT id="4" x="-34.675" y="22.5" anchorX="-2.674999999999997" anchorY="10.5"/>
+        </POINTS>
+        <WIDTH>71.6</WIDTH>
+        <HEIGHT>46</HEIGHT>
+        <ISDRAG>false</ISDRAG>
+        <ISROTATION>false</ISROTATION>
+        <ISDINAMYC>false</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>false</ISSTARTPOS>
+        <CUT>false</CUT>
+        <COLOR>
+          <X>533.6</X>
+          <Y>113</Y>
+          <R>0</R>
+          <COLOR>34527</COLOR>
+          <CONTOUR>1</CONTOUR>
+          <FILL>1</FILL>
+          <THICKLINE>1</THICKLINE>
+          <COLORLINE>0</COLORLINE>
+          <ALPHA>1</ALPHA>
+          <DELETE>0</DELETE>
+          <SYMMETRY>1</SYMMETRY>
+          <PAINT>1</PAINT>
+          <CLEENCOLOR>false</CLEENCOLOR>
+        </COLOR>
+        <BLACK>
+          <ALPHALINE>true</ALPHALINE>
+          <X>103.6</X>
+          <Y>40.5</Y>
+          <R>0</R>
+          <ALPHA>0</ALPHA>
+          <ALPHABG>0</ALPHABG>
+          <DELETE>1</DELETE>
+        </BLACK>
+        <ENABLEDCOLOR>false</ENABLEDCOLOR>
+      </USERTAN>
+      <USERTAN type="curve" id="1">
+        <POINTS>
+          <POINT id="0" x="2.6499999999999915" y="11" anchorX="NaN" anchorY="NaN"/>
+          <POINT id="1" x="-12" y="2" anchorX="-10" anchorY="13"/>
+          <POINT id="2" x="-1" y="-11" anchorX="-10" anchorY="-10"/>
+          <POINT id="3" x="11.649999999999991" y="-3" anchorX="11" anchorY="-13"/>
+          <POINT id="4" x="3.649999999999991" y="11" anchorX="12" anchorY="9"/>
+        </POINTS>
+        <WIDTH>24.65</WIDTH>
+        <HEIGHT>23.65</HEIGHT>
+        <ISDRAG>false</ISDRAG>
+        <ISROTATION>false</ISROTATION>
+        <ISDINAMYC>false</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>false</ISSTARTPOS>
+        <CUT>false</CUT>
+        <COLOR>
+          <X>523</X>
+          <Y>153.55</Y>
+          <R>0</R>
+          <COLOR>15912405</COLOR>
+          <CONTOUR>1</CONTOUR>
+          <FILL>1</FILL>
+          <THICKLINE>1</THICKLINE>
+          <COLORLINE>0</COLORLINE>
+          <ALPHA>1</ALPHA>
+          <DELETE>0</DELETE>
+          <SYMMETRY>1</SYMMETRY>
+          <PAINT>1</PAINT>
+          <CLEENCOLOR>false</CLEENCOLOR>
+        </COLOR>
+        <BLACK>
+          <ALPHALINE>true</ALPHALINE>
+          <X>90.95</X>
+          <Y>82</Y>
+          <R>0</R>
+          <ALPHA>0</ALPHA>
+          <ALPHABG>0</ALPHABG>
+          <DELETE>1</DELETE>
+        </BLACK>
+        <ENABLEDCOLOR>false</ENABLEDCOLOR>
+      </USERTAN>
+      <USERTAN type="curve" id="2">
+        <POINTS>
+          <POINT id="0" x="-58.47500000000001" y="-31" anchorX="NaN" anchorY="NaN"/>
+          <POINT id="1" x="-83.17500000000001" y="19" anchorX="-73.47500000000001" anchorY="-7"/>
+          <POINT id="2" x="-88.17500000000001" y="39" anchorX="-87.825" anchorY="29"/>
+          <POINT id="3" x="-75.47500000000001" y="43" anchorX="-81.825" anchorY="41"/>
+          <POINT id="4" x="-67.17500000000001" y="12" anchorX="-71.32500000000002" anchorY="27.5"/>
+          <POINT id="5" x="-69.47500000000001" y="9" anchorX="-68.32500000000002" anchorY="10.5"/>
+          <POINT id="6" x="-67.47500000000001" y="7" anchorX="-68.47500000000001" anchorY="8"/>
+          <POINT id="7" x="-62.47500000000001" y="10" anchorX="-64.97500000000001" anchorY="8.5"/>
+          <POINT id="8" x="-70.825" y="38" anchorX="-67.825" anchorY="23"/>
+          <POINT id="9" x="53.525000000000006" y="24" anchorX="-8.650000000000006" anchorY="31"/>
+          <POINT id="10" x="49.82499999999999" y="1" anchorX="53.525000000000006" anchorY="6"/>
+          <POINT id="11" x="52.82499999999999" y="-1" anchorX="51.32499999999999" anchorY="0"/>
+          <POINT id="12" x="55.17499999999998" y="4" anchorX="53.99999999999997" anchorY="1.5"/>
+          <POINT id="13" x="57.525000000000006" y="22" anchorX="56.349999999999994" anchorY="13"/>
+          <POINT id="14" x="58.17499999999998" y="45" anchorX="59.17499999999998" anchorY="34"/>
+          <POINT id="15" x="87.17499999999998" y="43" anchorX="72.67499999999998" anchorY="44"/>
+          <POINT id="16" x="82.525" y="-1" anchorX="88.17499999999998" anchorY="20"/>
+          <POINT id="17" x="63.875" y="-45" anchorX="75.875" anchorY="-25"/>
+          <POINT id="18" x="5.824999999999989" y="-17" anchorX="52.525000000000006" anchorY="-28"/>
+          <POINT id="19" x="-57.825" y="-31" anchorX="-36.17500000000001" anchorY="-16"/>
+        </POINTS>
+        <WIDTH>176.5</WIDTH>
+        <HEIGHT>91</HEIGHT>
+        <ISDRAG>false</ISDRAG>
+        <ISROTATION>false</ISROTATION>
+        <ISDINAMYC>false</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>false</ISSTARTPOS>
+        <CUT>false</CUT>
+        <COLOR>
+          <X>573</X>
+          <Y>237.05</Y>
+          <R>0</R>
+          <COLOR>15873605</COLOR>
+          <CONTOUR>1</CONTOUR>
+          <FILL>1</FILL>
+          <THICKLINE>1</THICKLINE>
+          <COLORLINE>0</COLORLINE>
+          <ALPHA>1</ALPHA>
+          <DELETE>0</DELETE>
+          <SYMMETRY>1</SYMMETRY>
+          <PAINT>1</PAINT>
+          <CLEENCOLOR>false</CLEENCOLOR>
+        </COLOR>
+        <BLACK>
+          <ALPHALINE>true</ALPHALINE>
+          <X>141.75</X>
+          <Y>164</Y>
+          <R>0</R>
+          <ALPHA>0</ALPHA>
+          <ALPHABG>0</ALPHABG>
+          <DELETE>1</DELETE>
+        </BLACK>
+        <ENABLEDCOLOR>false</ENABLEDCOLOR>
+      </USERTAN>
+      <USERTAN type="curve" id="3">
+        <POINTS>
+          <POINT id="0" x="26.350000000000023" y="32" anchorX="NaN" anchorY="NaN"/>
+          <POINT id="1" x="35.650000000000006" y="29" anchorX="33.35000000000002" anchorY="33"/>
+          <POINT id="2" x="33.35000000000002" y="20" anchorX="37.650000000000006" anchorY="24"/>
+          <POINT id="3" x="5.350000000000023" y="6" anchorX="24.65000000000001" anchorY="19"/>
+          <POINT id="4" x="1.6500000000000057" y="-3" anchorX="3.5" anchorY="1.5"/>
+          <POINT id="5" x="5.350000000000023" y="-7" anchorX="3.5" anchorY="-5"/>
+          <POINT id="6" x="5.350000000000023" y="-25" anchorX="9.350000000000025" anchorY="-19"/>
+          <POINT id="7" x="-1" y="-33" anchorX="5.350000000000023" anchorY="-31"/>
+          <POINT id="8" x="-8.349999999999994" y="-28" anchorX="-7.349999999999994" anchorY="-33"/>
+          <POINT id="9" x="-1.6499999999999773" y="-11" anchorX="-8.349999999999994" anchorY="-19"/>
+          <POINT id="10" x="-1" y="7" anchorX="-3" anchorY="-2"/>
+          <POINT id="11" x="-33.349999999999994" y="-8" anchorX="-16.64999999999999" anchorY="0"/>
+          <POINT id="12" x="-37.349999999999994" y="-3" anchorX="-37.64999999999999" anchorY="-8"/>
+          <POINT id="13" x="-1" y="15" anchorX="-19.34999999999999" anchorY="8"/>
+          <POINT id="14" x="-14.349999999999994" y="22" anchorX="1" anchorY="19"/>
+          <POINT id="15" x="-13.649999999999991" y="25" anchorX="-14" anchorY="23.5"/>
+          <POINT id="16" x="5" y="20" anchorX="-6.349999999999994" anchorY="27"/>
+          <POINT id="17" x="7.650000000000006" y="19" anchorX="6.324999999999989" anchorY="19.5"/>
+          <POINT id="18" x="25" y="32" anchorX="15.350000000000025" anchorY="27"/>
+        </POINTS>
+        <WIDTH>74.65</WIDTH>
+        <HEIGHT>66.2</HEIGHT>
+        <ISDRAG>false</ISDRAG>
+        <ISROTATION>false</ISROTATION>
+        <ISDINAMYC>false</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>false</ISSTARTPOS>
+        <CUT>false</CUT>
+        <COLOR>
+          <X>588.55</X>
+          <Y>313.3</Y>
+          <R>0</R>
+          <COLOR>10077015</COLOR>
+          <CONTOUR>1</CONTOUR>
+          <FILL>1</FILL>
+          <THICKLINE>1</THICKLINE>
+          <COLORLINE>0</COLORLINE>
+          <ALPHA>1</ALPHA>
+          <DELETE>0</DELETE>
+          <SYMMETRY>1</SYMMETRY>
+          <PAINT>1</PAINT>
+          <CLEENCOLOR>false</CLEENCOLOR>
+        </COLOR>
+        <BLACK>
+          <ALPHALINE>true</ALPHALINE>
+          <X>139.95</X>
+          <Y>160</Y>
+          <R>0</R>
+          <ALPHA>0</ALPHA>
+          <ALPHABG>0</ALPHABG>
+          <DELETE>1</DELETE>
+        </BLACK>
+        <ENABLEDCOLOR>false</ENABLEDCOLOR>
+      </USERTAN>
+      <USERTAN type="curve" id="4">
+        <POINTS>
+          <POINT id="0" x="-15.674999999999995" y="14.5" anchorX="NaN" anchorY="NaN"/>
+          <POINT id="1" x="-11.674999999999995" y="-14.5" anchorX="-17.324999999999996" anchorY="1.5"/>
+          <POINT id="2" x="17.324999999999996" y="-14.5" anchorX="2.8249999999999957" anchorY="-14.5"/>
+          <POINT id="3" x="-15.674999999999995" y="14.5" anchorX="3.3249999999999957" anchorY="7.5"/>
+        </POINTS>
+        <WIDTH>34.3</WIDTH>
+        <HEIGHT>30</HEIGHT>
+        <ISDRAG>false</ISDRAG>
+        <ISROTATION>false</ISROTATION>
+        <ISDINAMYC>false</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>false</ISSTARTPOS>
+        <CUT>false</CUT>
+        <COLOR>
+          <X>480.95</X>
+          <Y>421.9</Y>
+          <R>0</R>
+          <COLOR>16430673</COLOR>
+          <CONTOUR>1</CONTOUR>
+          <FILL>1</FILL>
+          <THICKLINE>1</THICKLINE>
+          <COLORLINE>0</COLORLINE>
+          <ALPHA>1</ALPHA>
+          <DELETE>0</DELETE>
+          <SYMMETRY>1</SYMMETRY>
+          <PAINT>1</PAINT>
+          <CLEENCOLOR>false</CLEENCOLOR>
+        </COLOR>
+        <BLACK>
+          <ALPHALINE>true</ALPHALINE>
+          <X>62.25</X>
+          <Y>124.5</Y>
+          <R>0</R>
+          <ALPHA>0</ALPHA>
+          <ALPHABG>0</ALPHABG>
+          <DELETE>1</DELETE>
+        </BLACK>
+        <ENABLEDCOLOR>false</ENABLEDCOLOR>
+      </USERTAN>
+      <USERTAN type="curve" id="5">
+        <POINTS>
+          <POINT id="0" x="-27.35" y="-18" anchorX="NaN" anchorY="NaN"/>
+          <POINT id="1" x="-17" y="-25" anchorX="-22.174999999999997" anchorY="-21.5"/>
+          <POINT id="2" x="14.649999999999991" y="-19" anchorX="-11.35" anchorY="-20"/>
+          <POINT id="3" x="45" y="-22" anchorX="31.64999999999999" anchorY="-18"/>
+          <POINT id="4" x="44" y="18" anchorX="46.64999999999999" anchorY="-3"/>
+          <POINT id="5" x="15.649999999999991" y="24" anchorX="33.349999999999994" anchorY="25"/>
+          <POINT id="6" x="-30.35" y="23" anchorX="-9.350000000000009" anchorY="25"/>
+          <POINT id="7" x="-45.650000000000006" y="18" anchorX="-39" anchorY="22"/>
+          <POINT id="8" x="-45.35" y="10" anchorX="-46.650000000000006" anchorY="14"/>
+          <POINT id="9" x="-39" y="-5" anchorX="-44.650000000000006" anchorY="1"/>
+          <POINT id="10" x="-27.35" y="6" anchorX="-33" anchorY="-3"/>
+          <POINT id="11" x="-16.650000000000006" y="-3" anchorX="-20.35" anchorY="5"/>
+          <POINT id="12" x="-24.35" y="-16" anchorX="-17.35" anchorY="-10"/>
+          <POINT id="13" x="-27.65000000000001" y="-17" anchorX="-26" anchorY="-16.5"/>
+        </POINTS>
+        <WIDTH>92.75</WIDTH>
+        <HEIGHT>50.35</HEIGHT>
+        <ISDRAG>false</ISDRAG>
+        <ISROTATION>false</ISROTATION>
+        <ISDINAMYC>false</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>false</ISSTARTPOS>
+        <CUT>false</CUT>
+        <COLOR>
+          <X>492.15</X>
+          <Y>523.7</Y>
+          <R>0</R>
+          <COLOR>740969</COLOR>
+          <CONTOUR>1</CONTOUR>
+          <FILL>1</FILL>
+          <THICKLINE>1</THICKLINE>
+          <COLORLINE>0</COLORLINE>
+          <ALPHA>1</ALPHA>
+          <DELETE>0</DELETE>
+          <SYMMETRY>1</SYMMETRY>
+          <PAINT>1</PAINT>
+          <CLEENCOLOR>false</CLEENCOLOR>
+        </COLOR>
+        <BLACK>
+          <ALPHALINE>true</ALPHALINE>
+          <X>74.95</X>
+          <Y>185</Y>
+          <R>0</R>
+          <ALPHA>0</ALPHA>
+          <ALPHABG>0</ALPHABG>
+          <DELETE>1</DELETE>
+        </BLACK>
+        <ENABLEDCOLOR>false</ENABLEDCOLOR>
+      </USERTAN>
+      <PICTURETAN id="0">
+        <IMAGE>bg_1.png</IMAGE>
+        <WIDTH>800</WIDTH>
+        <HEIGHT>566</HEIGHT>
+        <ISDRAG>true</ISDRAG>
+        <ISROTATION>true</ISROTATION>
+        <ISDINAMYC>false</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>false</ISSTARTPOS>
+        <SETMISSTAKE>false</SETMISSTAKE>
+        <COLOR>
+          <X>400</X>
+          <Y>283</Y>
+          <R>0</R>
+        </COLOR>
+        <BLACK>
+          <X>706.05</X>
+          <Y>561.3</Y>
+          <R>0</R>
+          <DELETE>1</DELETE>
+          <ALPHA>0</ALPHA>
+        </BLACK>
+      </PICTURETAN>
+    </OBJECTS>
+    <AUDIO>
+      <STARTAUDIO id="1437640359630.0.1" isRun="false"><![CDATA[]]></STARTAUDIO>
+      <FAILAUDIO id="1437640359630.0.2" isRun="false"><![CDATA[]]></FAILAUDIO>
+      <SUCCESSAUDIO id="boyoke" isRun="true"><![CDATA[]]></SUCCESSAUDIO>
+    </AUDIO>
+  </TASK>
+</PACKAGE>

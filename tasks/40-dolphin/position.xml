@@ -1,0 +1,178 @@
+<PACKAGE version="1.3" copyrights="lissgrad@tut.by">
+  <TEST>false</TEST>
+  <ISAUTODELIVERY>true</ISAUTODELIVERY>
+  <TIMERDELIVERY>00.00</TIMERDELIVERY>
+  <CHECK>false</CHECK>
+  <TESTANIMATION>true</TESTANIMATION>
+  <RANDOM>false</RANDOM>
+  <WIDTH>800</WIDTH>
+  <HEIGHT>566</HEIGHT>
+  <TASK level="1" eval="1" id="1">
+    <NAME>Задание</NAME>
+    <LAYERS>10,2,22,21,20,19,18,17,1,3,14,4,5,6,7,16,8,9,11,15,12,13</LAYERS>
+    <DIAP>30</DIAP>
+    <UNIQU>true</UNIQU>
+    <MNIMOE>false</MNIMOE>
+    <ICONS>false</ICONS>
+    <DELBUT>0,0,0</DELBUT>
+    <MARKCOUNTER>false</MARKCOUNTER>
+    <OBJECTS>
+      <PICTURETAN id="0">
+        <IMAGE>bg_2.png</IMAGE>
+        <WIDTH>800</WIDTH>
+        <HEIGHT>566</HEIGHT>
+        <ISDRAG>true</ISDRAG>
+        <ISROTATION>true</ISROTATION>
+        <ISDINAMYC>false</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>false</ISSTARTPOS>
+        <SETMISSTAKE>false</SETMISSTAKE>
+        <COLOR>
+          <X>400</X>
+          <Y>283</Y>
+          <R>0</R>
+        </COLOR>
+        <BLACK>
+          <X>432.6</X>
+          <Y>150.5</Y>
+          <R>0</R>
+          <DELETE>1</DELETE>
+          <ALPHA>0</ALPHA>
+        </BLACK>
+      </PICTURETAN>
+      <PICTURETAN id="1">
+        <IMAGE>p1_2.png</IMAGE>
+        <WIDTH>181</WIDTH>
+        <HEIGHT>146</HEIGHT>
+        <ISDRAG>true</ISDRAG>
+        <ISROTATION>false</ISROTATION>
+        <ISDINAMYC>true</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>true</ISSTARTPOS>
+        <SETMISSTAKE>false</SETMISSTAKE>
+        <COLOR>
+          <X>100.15</X>
+          <Y>301.15</Y>
+          <R>0</R>
+        </COLOR>
+        <BLACK>
+          <X>970.2</X>
+          <Y>212.25</Y>
+          <R>0</R>
+          <DELETE>0</DELETE>
+          <ALPHA>0</ALPHA>
+        </BLACK>
+      </PICTURETAN>
+      <PICTURETAN id="2">
+        <IMAGE>p2_2.png</IMAGE>
+        <WIDTH>181</WIDTH>
+        <HEIGHT>146</HEIGHT>
+        <ISDRAG>true</ISDRAG>
+        <ISROTATION>false</ISROTATION>
+        <ISDINAMYC>true</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>true</ISSTARTPOS>
+        <SETMISSTAKE>false</SETMISSTAKE>
+        <COLOR>
+          <X>226.2</X>
+          <Y>427.75</Y>
+          <R>0</R>
+        </COLOR>
+        <BLACK>
+          <X>963.15</X>
+          <Y>349.3</Y>
+          <R>0</R>
+          <DELETE>0</DELETE>
+          <ALPHA>0</ALPHA>
+        </BLACK>
+      </PICTURETAN>
+      <PICTURETAN id="3">
+        <IMAGE>p4_2.png</IMAGE>
+        <WIDTH>182</WIDTH>
+        <HEIGHT>146</HEIGHT>
+        <ISDRAG>true</ISDRAG>
+        <ISROTATION>false</ISROTATION>
+        <ISDINAMYC>false</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>true</ISSTARTPOS>
+        <SETMISSTAKE>false</SETMISSTAKE>
+        <COLOR>
+          <X>643.45</X>
+          <Y>418.4</Y>
+          <R>0</R>
+          <ANIMATION step="1" startTime="0" cicling="false" removeObject="false" firstPoint="false" address="0" multiple="false" static="true" label="final">
+            <POINTS>
+              <KEYPOINT X="0" Y="0" rotation="0" scale="1" alpha="0" color="0" timeOut="0" block="false" label="" access="0"/>
+              <KEYPOINT X="325.5999999999999" Y="1" rotation="0" scale="1" alpha="0" color="0" timeOut="0" block="false" label="" access="0"/>
+            </POINTS>
+          </ANIMATION>
+        </COLOR>
+        <BLACK>
+          <X>516.25</X>
+          <Y>244.1</Y>
+          <R>0</R>
+          <DELETE>0</DELETE>
+          <ALPHA>1</ALPHA>
+        </BLACK>
+        <STARTANIMATIONCOMPLATE>final</STARTANIMATIONCOMPLATE>
+      </PICTURETAN>
+      <PICTURETAN id="4">
+        <IMAGE>z3.png</IMAGE>
+        <WIDTH>181</WIDTH>
+        <HEIGHT>146</HEIGHT>
+        <ISDRAG>true</ISDRAG>
+        <ISROTATION>false</ISROTATION>
+        <ISDINAMYC>true</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>true</ISSTARTPOS>
+        <SETMISSTAKE>false</SETMISSTAKE>
+        <COLOR>
+          <X>432.2</X>
+          <Y>465.4</Y>
+          <R>0</R>
+        </COLOR>
+        <BLACK>
+          <X>992.3</X>
+          <Y>497.05</Y>
+          <R>0</R>
+          <DELETE>0</DELETE>
+          <ALPHA>0</ALPHA>
+        </BLACK>
+      </PICTURETAN>
+      <PICTURETAN id="5">
+        <IMAGE>correct_2.png</IMAGE>
+        <WIDTH>176</WIDTH>
+        <HEIGHT>140</HEIGHT>
+        <ISDRAG>true</ISDRAG>
+        <ISROTATION>true</ISROTATION>
+        <ISDINAMYC>false</ISDINAMYC>
+        <ISDROPBACK>false</ISDROPBACK>
+        <ISSTARTPOS>false</ISSTARTPOS>
+        <SETMISSTAKE>false</SETMISSTAKE>
+        <COLOR>
+          <X>517.25</X>
+          <Y>244.05</Y>
+          <R>0</R>
+          <ANIMATION step="1" startTime="0" cicling="false" removeObject="false" firstPoint="true" address="0" multiple="false" static="true" label="final">
+            <POINTS>
+              <KEYPOINT X="0" Y="0" rotation="0" scale="1" alpha="0" color="0" timeOut="0" block="false" label="" access="0"/>
+              <KEYPOINT X="0.5499999999999545" Y="0" rotation="0" scale="1" alpha="1" color="0" timeOut="0" block="false" label="" access="0"/>
+            </POINTS>
+          </ANIMATION>
+        </COLOR>
+        <BLACK>
+          <X>717.65</X>
+          <Y>217.65</Y>
+          <R>0</R>
+          <DELETE>1</DELETE>
+          <ALPHA>0</ALPHA>
+        </BLACK>
+      </PICTURETAN>
+    </OBJECTS>
+    <AUDIO>
+      <STARTAUDIO id="1460883791436.0.1" isRun="false"><![CDATA[]]></STARTAUDIO>
+      <FAILAUDIO id="1460883791436.0.2" isRun="false"><![CDATA[]]></FAILAUDIO>
+      <SUCCESSAUDIO id="oke" isRun="true"><![CDATA[]]></SUCCESSAUDIO>
+    </AUDIO>
+  </TASK>
+</PACKAGE>
